@@ -14,4 +14,4 @@ layout: default
 
 ## Who can be reached by email
 
-# thomas@saunter.org
+# [thomas@saunter.org](mailto:thomas@saunter.org)
