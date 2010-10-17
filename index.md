@@ -1,11 +1,17 @@
-# You have reached
+---
+title: rsnd.org
+layout: default
+---
 
-## rsnd.org
 
-# Which belongs to
+## You have reached
 
-## Thomas Rampelberg
+# rsnd.org
 
-# Who can be reached by email
+## Which belongs to
 
-## thomas@saunter.org
+# Thomas Rampelberg
+
+## Who can be reached by email
+
+# thomas@saunter.org
